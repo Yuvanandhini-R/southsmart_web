@@ -141,6 +141,16 @@ All conversions are handled via protected Firebase Cloud Functions with automate
 2. Create your feature branch: `git checkout -b feature/AmazingFeature`  
 3. Commit changes: `git commit -m 'Add some AmazingFeature'`  
 4. Push branch: `git push origin feature/AmazingFeature`  
-5. Open a Pull Request.  
+5. Open a Pull Request.
+
+For any issues or questions regarding the project, please refer to the detailed **TECHNICAL DOCUMENT** below:
+
+[Technical Documentation PDF](docs/technical_document_v1.0.pdf)
+
+---
+
+**Live Website:** [Southsmart Technologies](https://www.southsmart.in)
+
+This repository contains the source code for the official Southsmart Technologies website.
 
 ---
