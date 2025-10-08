@@ -149,7 +149,7 @@ For any issues or questions regarding the project, please refer to the detailed 
 
 ---
 
-**Live Website:** [Southsmart Technologies](https://www.southsmart.in)
+**Live Website:** [Southsmart Technologies](https://southsmart.in/about)
 
 This repository contains the source code for the official Southsmart Technologies website.
 
